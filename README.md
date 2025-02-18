@@ -1,1 +1,1 @@
-# db23ai.github.io
+# DataGenAI.github.io
