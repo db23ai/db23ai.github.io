@@ -1,1 +1,1 @@
-# DataGenAI.github.io
+# datagenai.github.io
